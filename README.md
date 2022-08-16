@@ -2,7 +2,7 @@
 
 # Hello World Microverse
 
-> Description the project.
+> this project is only to say hello to microverse and add the requirements as needed.
 
 
 ## Built With
